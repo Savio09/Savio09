@@ -9,4 +9,4 @@ Some things on here worth a look:
 - [kubernetes-for-learning](https://github.com/Savio09/kubernetes-for-learning): learning Kubernetes by building on Kubernetes
 - [twyntunes](https://github.com/Savio09/twyntunes-frontend): see what friends are listening to on Spotify and compete on hours listened
 
-You can find me at [declann.codes](https://declann.codes) or on [LinkedIn](https://linkedin.com/in/declanfortune). I also play guitar and spend more time in the gym than I'd like to admit.
+You can find me on [LinkedIn](https://linkedin.com/in/declanfortune). I also play guitar and spend more time in the gym than I'd like to admit.
